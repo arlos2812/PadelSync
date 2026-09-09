@@ -1,0 +1,6 @@
+{
+  "name": "Padel Tracker",
+  "description": "Controla tus partidos de pádel en tiempo real, analiza tu técnica y golpes por vídeo con IA (puntuación y mejoras), revisa estadísticas y compite en comunidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
